@@ -82,7 +82,7 @@ npm start
 
 
 #### 접속 주소
-http://kdt-sw-8-team06.elicecoding.com:3001/
+http://kdt-sw-8-team06.elicecoding.com/
 
 
 ## 📍프로젝트 팀원 역할 분담
